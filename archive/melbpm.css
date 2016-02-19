@@ -1,0 +1,69 @@
+/* Melbourne.PM stylsheet. */
+/* Paul Fenwick (pjf at comprehensive perl archive network) */
+
+body {
+	font-family: Verdana, arial, Helvetica, sans-serif;
+	background-color: white;
+	color: black;
+}
+
+img {
+	border:0;
+}
+
+img.validation {
+	width:  88px;
+	height: 31px;
+}
+
+p {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+h2 {
+	padding-left: 0.5em;
+}
+
+h3 {
+	padding-left: 0.5em;
+}
+
+#tail {
+	clear: both;
+}
+
+#news {
+	background-color: #f9f9d0;
+	color: black;
+}
+
+#meetings {
+	background-color: #cff;
+	color: black;
+	width: 45%;
+	float: left;
+}
+
+#mailing-list {
+	background-color: #ccf;
+	color: black;
+	width: 45%;
+	float: left;
+}
+
+#about {
+	background-color: #ffe3e3;
+	color: black;
+	float: right;
+	width: 45%;
+}
+
+#meetings, #mailing-list, #about, #news {
+	margin: 1em;
+	border: solid 2px #333;
+}
+
+#validations {
+	clear: both;
+}

@@ -1,0 +1,58 @@
+/* CSS styling on top of bootstrap for Melbourne Perl Mongers */
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Philosopher'), url('https://themes.googleusercontent.com/static/fonts/philosopher/v4/OttjxgcoEsufOGSINYBGLbrIa-7acMAeDBVuclsi6Gc.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Orbitron-Light'), local('Orbitron-Regular'), url('https://themes.googleusercontent.com/static/fonts/orbitron/v3/94ug0rEgQO_WuI_xKJMFc3YhjbSpvc47ee6xR_80Hnw.woff') format('woff');
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background:url(../img/mpmbg1.gif);
+}
+
+.orbitron {
+  font-size:40px;
+  color:#416486;
+  letter-spacing:.01em;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.philosopher {
+  color: #9dbddd;
+  font-weight:normal;
+  font-size:26px;
+  font-family: "Philosopher", sans-serif;
+  font-style: italic;
+}
+
+.banner {
+  padding-bottom: 20px;
+}
+
+.well {
+  background-color:#fff;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow:none;
+  border:1px solid #eceef0;
+  margin-bottom:1em;
+  padding:1em 1.5em;
+  -webkit-box-shadow: 1px 1px 2px 0px rgba(94, 94, 94, .1);
+  -moz-box-shadow: 1px 1px 2px 0px rgba(94, 94, 94, .1);
+  box-shadow: 1px 1px 2px 0px rgba(94, 94, 94, .1);
+}
+
+.meetings  {
+  background-color:#dff2fb;
+  border-color:#c4e5f5;
+}
+

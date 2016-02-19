@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN"
+"http://my.netscape.com/publish/formats/rss-0.91.dtd">
+
+<rss version="0.91">
+
+<channel>
+	<title>Melbourne Perl Mongers</title>
+	<link>http://melbourne.pm.org</link>
+	<description>Melbourne Perl Mongers RSS News Feed</description>
+	<language>en-au</language>
+	<image>
+		<title>Melbourne.pm - Melbourne Perl Mongers</title>
+		<url>http://melbourne.pm.org/icon.png</url>
+		<link>http://melbourne.pm.org</link>
+	</image>
+	<webMaster>scott@cpan.org</webMaster>
+	<item>
+		<title>Events</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=57</link>
+	</item>
+	<item>
+		<title>VTR Open Day 2002</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=58</link>
+	</item>
+	<item>
+		<title>Sams Teach Yourself Apache 2 in 24 Hours</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=33</link>
+	</item>
+	<item>
+		<title>Programming Perl (3rd Edition)</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=32</link>
+	</item>
+	<item>
+		<title>Java Cookbook</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=26</link>
+	</item>
+	<item>
+		<title>Perl 6 Essentials</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=30</link>
+	</item>
+	<item>
+		<title>Development Wiki - read the text</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=44</link>
+	</item>
+	<item>
+		<title>iSite Internet Consultancy</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=55</link>
+	</item>
+	<item>
+		<title>Learning Perl Objects, References and Modules</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=27</link>
+	</item>
+	<item>
+		<title>Building Internet Firewalls (2nd Edition)</title>
+		<link>http://melbourne.pm.org/http://melbourne.pm.org/index.cgi?tid=25</link>
+	</item>
+</channel>
+</rss>
